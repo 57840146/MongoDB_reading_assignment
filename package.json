@@ -1,0 +1,15 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "web hw for connect mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Han Chu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}
